@@ -5,7 +5,7 @@ This project involves cleaning and exploring an air quality dataset, followed by
 
 ## Project Overview
 
-- **Dataset:** [Provide information about the source and details of the air quality dataset used in this project.]
+- **Dataset:**
 
 - **Project Objective:** The main objectives of this project are as follows:
   1. Data Cleaning: Preprocessing the dataset to ensure data quality and consistency.
